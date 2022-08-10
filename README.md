@@ -1,5 +1,5 @@
 # RhythmDancer
-[[Video Demo]](http://www.youtube.com/watch?v=M0MS8tqvxt0)
+[[Video Demo]](https://youtu.be/bytDZc53TQE)
 
 <p float="left">
 	<img src="https://github.com/Ryan00618/RhythmDancer/blob/main/gif/show_git.gif" width="450" /> <img src="https://github.com/Ryan00618/RhythmDancer/blob/main/gif/demo0.gif" width="450" /> 
