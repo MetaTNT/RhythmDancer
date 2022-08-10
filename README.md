@@ -1,5 +1,5 @@
 # RhythmDancer
-![image](https://github.com/Ryan00618/RhythmDancer/blob/main/gif/show_git.gif)
+![image](https://github.com/Ryan00618/RhythmDancer/blob/main/gif/show_git.gif) ![image](https://github.com/Ryan00618/RhythmDancer/blob/main/gif/demo0.gif)
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Ner3--GgmNs/0.jpg)](http://www.youtube.com/watch?v=Ner3--GgmNs ) [![IMAGE ALT TEXT](http://img.youtube.com/vi/M0MS8tqvxt0/0.jpg)](http://www.youtube.com/watch?v=M0MS8tqvxt0 )
 
